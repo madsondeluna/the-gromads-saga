@@ -32,6 +32,18 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 
 ---
 
+## Cheats de Sobrevivência (que me contaram)
+
+**Regra de Ouro:** Se funcionou, não mexe.
+**99% das vezes:** O erro está entre o teclado e a cadeira.
+**Debugging ninja:** Se um `print()` resolve, para que complicar?
+**A realidade:** O código só quebra quando alguém está olhando.
+**Lei universal:** Quanto mais bonito o gráfico, mais grambiarra tem pra ele ser plotado.
+
+
+
+---
+
 ## Posso contribuir?  
 
 Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser otimizado (eu sei, sempre pode), fique à vontade para abrir uma issue ou mandar um PR.  
@@ -47,8 +59,9 @@ Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser oti
 
 Se quiser bater um papo sobre bioinformática, ciência de dados ou só reclamar da vida acadêmica, me encontra por aí:  
 
-madsondeluna@gmail.com <br>
-https://www.linkedin.com/in/madsonaragao/ 
+**E-mail:** madsondeluna@gmail.com <br>
+**Linkedin:** https://www.linkedin.com/in/madsonaragao/ <br>
+**Twitter (não vou chamar de X):** https://twitter.com/mdsnllndlnrg
 
 ---
 
