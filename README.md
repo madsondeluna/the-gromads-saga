@@ -1,7 +1,7 @@
 # THE GROMADS SAGA 
 
 >E sim, eu enchi o `README.md` de emojis pra dar uma cor, uma felicidade... uma diversão... <br>
->"Não buzine! Isso me assusta e é pior!” 😱 
+>Quando me ver codando errado: "Não buzine! Isso me assusta e é pior!” 😱 
 
 <h3>E vamos com calma, que eu estou apredendo... 🥹🙏🏼</h3>
 
