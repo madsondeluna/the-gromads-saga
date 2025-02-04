@@ -1,4 +1,4 @@
-# THE GROMADS SAGA 🎬🤩
+# THE GROMADS SAGA 
 
 >E sim, eu enchi o `README.md` de emojis pra dar uma cor... <br>
 >"Não buzine! Isso me assusta e é pior!” 😱 
@@ -7,13 +7,13 @@
 
 > "Com grandes datasets vêm grandes responsabilidades." <br> (Provavelmente um Data Scientist sábio, ou só alguém tentando debugar um código às 3 da manhã.)
 
-## Sobre este repositório 🌟
+## Sobre este repositório 
 
 Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pela **especialização em Data Science and Analytics da PUC-Rio**. Aqui você encontrará desde códigos elegantes (raros, mas existem) até scripts que parecem invocações de um grimório arcano. Se você curte Python 🐍, Data Science 📊 ou simplesmente gosta de ver alguém lutando heroicamente contra bugs 🐛 e `NaN values`, este é o lugar certo!
 
 ---
 
-## O que tem aqui? ⚙️
+## O que tem aqui? 
 
 - **Scripts de aulas** –> Porque nem só de teoria vive um cientista de dados. 🤓
 - **Projetos e desafios** –> Incluindo os que me fizeram reconsiderar minhas escolhas de vida. 🤯  
@@ -22,7 +22,7 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 
 ---
 
-## Tecnologias e Ferramentas 🧮
+## Tecnologias e Ferramentas 
 
 - **Linguagem:** Python (óbvio, né? não sou muito adepto do R)... 🐍  
 - **Bibliotecas:** NumPy, Pandas, Matplotlib, Scikit-Learn (e ocasionalmente algum feitiço de Stack Overflow)... 📑 
@@ -33,7 +33,7 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 
 ---
 
-## Cheats de Sobrevivência (que me contaram) 😎🃏
+## Cheats de Sobrevivência (que me contaram 😎🃏) 
 
 - **Regra de Ouro:** Se funcionou, não mexe. 🏆  
 - **99% das vezes:** O erro está entre o teclado e a cadeira. 🚑 
@@ -43,7 +43,7 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 
 ---
 
-## Posso contribuir? 🆘
+## Posso contribuir? (toda ajuda é bem-vinda! 🆘)
 
 Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser otimizado (eu sei, sempre pode), fique à vontade para abrir uma issue ou mandar um PR.
 
@@ -54,7 +54,7 @@ Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser oti
 
 ---
 
-## Contato 📫
+## Contato 
 
 Se quiser bater um papo sobre bioinformática, ciência de dados ou só reclamar da vida acadêmica, me encontra por aí:
 
