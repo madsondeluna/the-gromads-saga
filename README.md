@@ -59,8 +59,8 @@ Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser oti
 Se quiser bater um papo sobre bioinformática, ciência de dados ou só reclamar da vida acadêmica, me encontra por aí:
 
 - **E-mail:** madsondeluna@gmail.com  
-- **LinkedIn:** [Perfil no Linkedin](https://www.linkedin.com/in/madsonaragao/)  
-- **Twitter (não vou chamar de X):** [Perfil no Twitter](https://twitter.com/mdsnllndlnrg)
+- [Perfil no Linkedin](https://www.linkedin.com/in/madsonaragao/)  
+- [Perfil no Twitter (não vou chamar de X)](https://twitter.com/mdsnllndlnrg)
 
 ---
 
