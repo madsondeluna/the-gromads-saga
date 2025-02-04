@@ -16,10 +16,10 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 
 ## O que tem aqui? 
 
-- **Scripts de aulas** –> Porque nem só de teoria vive um cientista de dados. 🤓
-- **Projetos e desafios** –> Incluindo os que me fizeram reconsiderar minhas escolhas de vida. 🤯  
-- **Anotações e insights** –> Para quando eu precisar revisar e fingir que sempre soube disso. 📝  
-- **Plot twists** –> Também conhecidos como erros de sintaxe inesperados e modelos que não convergem. 🔄
+- **Scripts de aulas** –> Porque nem só de teoria vive um cientista de dados... 🤓
+- **Projetos e desafios** –> Incluindo os que me fizeram reconsiderar minhas escolhas de vida... 🤯  
+- **Anotações e insights** –> Para quando eu precisar revisar e fingir que sempre soube disso... 📝  
+- **Plot twists** –> Também conhecidos como erros de sintaxe inesperados e modelos que não convergem... 🔄
 
 ---
 
@@ -36,11 +36,11 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 
 ## Cheats de Sobrevivência (que me contaram 😎🃏) 
 
-- **Regra de Ouro:** Se funcionou, não mexe. 🏆  
-- **99% das vezes:** O erro está entre o teclado e a cadeira. 🚑 
+- **Regra de Ouro:** Se funcionou, não mexe... A gente deixa elegante depois, com calma! 🏆  
+- **99% das vezes:** O erro está entre o teclado e a cadeira... 🚑 
 - **Debugging ninja:** Se um `print()` resolve, para que complicar? 🦹🏼
 - **A realidade:** O código só quebra quando alguém está olhando. 👀  
-- **Lei universal:** Quanto mais bonito o gráfico, mais grambiarra tem pra ele ser plotado. 💥
+- **Lei universal:** Quanto mais bonito o gráfico, mais grambiarra tem pra ele funcionar... 💥
 
 ---
 
@@ -49,9 +49,9 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser otimizado (eu sei, sempre pode), fique à vontade para abrir uma issue ou mandar um PR.
 
 **Lembre-se:**  
-- Código sem bugs é lenda urbana. 🐞🚫  
-- Todo `print('debug')` conta como método científico. 🔬  
-- Machine Learning é só estatística com GPU (pronto, falei!). 🧠
+- Código sem bugs é lenda urbana... 🐞🚫  
+- Todo `print('debug')` conta como método científico... 🔬  
+- Machine Learning é só estatística com GPU (pronto, falei!)... 🧠
 
 ---
 
@@ -65,4 +65,4 @@ Se quiser bater um papo sobre bioinformática, ciência de dados ou só reclamar
 
 ---
 
-> "Que os dados estejam sempre a seu favor!" 🍀
+> "Que os dados e os compiladores estejam sempre a seu favor!" 🍀
