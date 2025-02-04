@@ -11,6 +11,7 @@
 
 Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pela **especialização em Data Science and Analytics da PUC-Rio**. Aqui você encontrará desde códigos elegantes (raros, mas existem) até scripts que parecem invocações de um grimório arcano. Se você curte Python 🐍, Data Science 📊 ou simplesmente gosta de ver alguém lutando heroicamente contra bugs 🐛 e `NaN values`, este é o lugar certo!
 
+>Só não vale rir de mim! 
 ---
 
 ## O que tem aqui? 
