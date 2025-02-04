@@ -1,6 +1,6 @@
-# 🐍 Python Chronicles: The PUC-Rio Saga  
+# The PUC-Rio Saga  
 
-> "Com grandes datasets vêm grandes responsabilidades." — (Provavelmente um Data Scientist sábio, ou só alguém tentando debugar um código às 3 da manhã.)
+> "Com grandes datasets vêm grandes responsabilidades." <br> (Provavelmente um Data Scientist sábio, ou só alguém tentando debugar um código às 3 da manhã.)
 
 ## Sobre este repositório  
 
@@ -13,17 +13,20 @@ Se você curte Python, Data Science ou simplesmente gosta de ver alguém lutando
 
 ## O que tem aqui?  
 
-🔹 **Scripts de aulas** – Porque nem só de teoria vive um cientista de dados.  
-🔹 **Projetos e desafios** – Incluindo os que me fizeram reconsiderar minhas escolhas de vida.  
-🔹 **Anotações e insights** – Para quando eu precisar revisar e fingir que sempre soube disso.  
-🔹 **Plot twists** – Também conhecidos como *erros de sintaxe inesperados* e *modelos que não convergem*.  
+**Scripts de aulas** – Porque nem só de teoria vive um cientista de dados.  
+**Projetos e desafios** – Incluindo os que me fizeram reconsiderar minhas escolhas de vida.  
+**Anotações e insights** – Para quando eu precisar revisar e fingir que sempre soube disso.  
+**Plot twists** – Também conhecidos como *erros de sintaxe inesperados* e *modelos que não convergem*.  
 
 ---
 
 ## Tecnologias e Ferramentas  
 
 **Linguagem:** Python (óbvio, né? não sou muito adepto do R)  
-**Bibliotecas:** NumPy, Pandas, Matplotlib, Scikit-Learn (e ocasionalmente algum feitiço de Stack Overflow)  
+**Bibliotecas:** NumPy, Pandas, Matplotlib, Scikit-Learn (e ocasionalmente algum feitiço de Stack Overflow)
+**Machine Learning & IA:** Scikit-Learn, TensorFlow, PyTorch  
+**Banco de Dados & BI:** SQL (PostgreSQL, MySQL, SQLite), SQLAlchemy, Power BI, Apache Superset
+**Web Scraping & APIs:** BeautifulSoup, Scrapy, Selenium, FastAPI, Flask
 **Ambiente:** Jupyter Notebooks, VS Code, Google Colab (para quando a RAM do meu PC desiste de mim)  
 
 ---
@@ -42,9 +45,10 @@ Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser oti
 ## Contato  
 
 Se quiser bater um papo sobre bioinformática, ciência de dados ou só reclamar da vida acadêmica, me encontra por aí:  
-📧 madsondeluna@gmail.com
-🐙 https://www.linkedin.com/in/madsonaragao/ 
+
+madsondeluna@gmail.com <br>
+https://www.linkedin.com/in/madsonaragao/ 
 
 ---
 
-**"Que os dados estejam sempre a seu favor!"** 
+>"Que os dados estejam sempre a seu favor!"
