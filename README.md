@@ -29,7 +29,7 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 - **Machine Learning & IA:** Scikit-Learn, TensorFlow, PyTorch... 🤖  
 - **Banco de Dados & BI:** SQL (PostgreSQL, MySQL, SQLite), SQLAlchemy, Power BI, Apache Superset... 💾  
 - **Web Scraping & APIs:** BeautifulSoup, Scrapy, Selenium, FastAPI, Flask... 🌐  
-- **Ambiente:** Jupyter Notebooks, VS Code, Google Colab (para quando a RAM do meu PC desiste de mim)... 📦
+- **Ambiente:** Jupyter Notebooks, VS Code, Google Colab (para quando a RAM do meu PC desiste de mim), Docker (porque ambiente quebrado é rotina)... 📦
 
 ---
 
