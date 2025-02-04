@@ -7,7 +7,7 @@
 
 <h3>E vamos com calma, que eu estou apredendo... 🥹🙏🏼</h3>
 
-> "Com grandes datasets vêm grandes responsabilidades." <br> (Provavelmente um Data Scientist sábio, ou só alguém tentando debugar um código às 3 da manhã.)
+> "Com grandes datasets vêm grandes responsabilidades." <br> (Autor desconhecido, mas provavelmente um Data Scientist sábio, ou só alguém tentando debugar um código às 3 da manhã.)
 
 ## Sobre este repositório 
 
