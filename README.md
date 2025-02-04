@@ -1,5 +1,7 @@
 # THE GROMADS SAGA 
 
+<img src="extra/anim2.gif" alt="just4fun" width="450"/>
+
 >E sim, eu enchi o `README.md` de emojis pra dar uma cor, uma felicidade... uma diversão... <br>
 >Quando me ver codando errado: "Não buzine! Isso me assusta e é pior!” 😱 
 
