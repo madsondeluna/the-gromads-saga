@@ -50,7 +50,7 @@ Claro! Se você quiser sugerir melhorias ou apontar que meu código pode ser oti
 
 **Lembre-se:**  
 - Código sem bugs é lenda urbana... 🐞🚫  
-- Todo `print('debug')` conta como método científico... 🔬  
+- Todo `print('debug')` conta como método científico por trás... 🔬  
 - Machine Learning é só estatística com GPU (pronto, falei!)... 🧠
 
 ---
