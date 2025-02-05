@@ -21,7 +21,6 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 - **Scripts de aulas** –> Porque nem só de teoria vive um cientista de dados... 🤓
 - **Projetos e desafios** –> Incluindo os que me fizeram reconsiderar minhas escolhas de vida... 🤯  
 - **Anotações e insights** –> Para quando eu precisar revisar e fingir que sempre soube disso... 📝  
-- **Plot twists** –> Também conhecidos como erros de sintaxe inesperados e modelos que não convergem... 🔄
 
 ---
 
