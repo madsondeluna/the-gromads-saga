@@ -36,7 +36,7 @@ Bem-vindo ao **THE GROMADS SAGA**, o repositório onde deposito minha jornada pe
 
 ---
 
-## Cheats de sobrevivência (que me contaram 😎🃏) 
+## Dicas de sobrevivência (que me contaram 😎🃏) 
 
 - **Regra de Ouro:** Se funcionou, não mexe... A gente deixa elegante depois, com calma! 🏆  
 - **99% das vezes:** O erro está entre o teclado e a cadeira... 🚑 
