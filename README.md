@@ -1,4 +1,4 @@
-# THE GROMADS SAGA: BITS, BYTES AND BIOMOLECULRES
+# THE GROMADS SAGA 
 
 <img src="extra/anim2.gif" alt="just4fun" width="300"/>
 
